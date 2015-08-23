@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Left-hand Sidebar for Profile feature.
+ */
+
+include_once 'left_hand_sidebar_for_profile.features.inc';

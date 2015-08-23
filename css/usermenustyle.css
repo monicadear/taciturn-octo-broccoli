@@ -1,0 +1,44 @@
+#block-system-user-menu ul.menu li.myinbox a {
+	background: url("../images/icon-myinbox.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+#block-system-user-menu ul.menu li.myaccount a {
+	background: url("../images/icon-myaccount.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+
+#block-system-user-menu ul.menu li.addcontent a {
+	background: url("../images/icon-addcontent.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+
+#block-system-user-menu ul.menu li.mydashboard a {
+	background: url("../images/icon-mydashboard.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+
+#block-system-user-menu ul.menu li.showlatestposts a {
+	background: url("../images/icon-showlatestposts.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+#block-system-user-menu ul.menu li.myfavorites a {
+	background: url("../images/icon-myfavorites.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+#block-system-user-menu ul.menu li.myfriends a {
+	background: url("../images/icon-myfriends.png") left center no-repeat;
+	padding-left: 25px;
+}
+
+
+#block-system-user-menu ul.menu li.mysettings a {
+	background: url("../images/icon-mysettings.png") left center no-repeat;
+	padding-left: 25px;
+}
+
